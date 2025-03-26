@@ -1,0 +1,12 @@
+{
+  "name": "focus-window",
+  "description": "Focus window",
+  "uuid": "gnome-shell-focus-window@dingjingmaster",
+  "version": 1,
+  "url": "",
+  "shell-version": [
+    "46",
+    "47",
+    "48"
+  ]
+}
